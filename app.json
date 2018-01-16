@@ -3,10 +3,6 @@
   "scripts": {
   },
   "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "Standard-2X"
-    },
     "release": {
       "quantity": 1,
       "size": "Standard-2X"

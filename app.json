@@ -1,7 +1,6 @@
 {
   "name": "release-phase-testing",
   "scripts": {
-    
   },
   "env": {
     "LANG": {

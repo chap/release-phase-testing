@@ -2,6 +2,16 @@
   "name": "release-phase-testing",
   "scripts": {
   },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "Standard-2X"
+    },
+    "release": {
+      "quantity": 1,
+      "size": "Standard-2X"
+    }
+  },
   "env": {
     "LANG": {
       "required": true

@@ -8,7 +8,15 @@
     }
   },
   "formation": {
-  },
+     "worker": {
+       "quantity": 1,
+       "size": "Standard-2X"
+     },
+     "release": {
+       "quantity": 1,
+       "size": "Standard-2X"
+     }
+   },
   "addons": [
 
   ],

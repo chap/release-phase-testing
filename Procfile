@@ -1,2 +1,2 @@
 worker: ruby ping.rb
-release: ./release
+release: ./bin/release

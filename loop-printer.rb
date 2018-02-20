@@ -1,3 +1,6 @@
+puts ''
+puts 'ENV='
+puts `env`
 current = 0
 limit = 30
 delay = 10

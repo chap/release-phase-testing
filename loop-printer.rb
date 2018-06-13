@@ -1,6 +1,6 @@
 current = 0
-limit = 30
-delay = 10
+limit = 10
+delay = 1
 
 
 while current < limit do

@@ -1,7 +1,7 @@
 {
   "name": "release-phase-testing",
   "scripts": {
-    "postdeploy": "ruby loop-printer.rb",
+    "postdeploy": "ruby loop-printer.rb"
   },
   "env": {
     "LANG": {

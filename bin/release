@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+#
+
+puts 'running release`
+
+if ENV['DATABASE_READY'] || ENV['RAILS_ENV'] == 'production'
+  `echo 'both conditions met'`
+end

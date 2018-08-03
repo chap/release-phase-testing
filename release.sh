@@ -1,1 +1,1 @@
-curl -I https://google.com
+curl -I https://www.google.com

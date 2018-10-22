@@ -2,7 +2,7 @@ puts ''
 puts 'ENV='
 puts `env`
 current = 0
-limit = 10
+limit = 100000000
 delay = 1
 
 

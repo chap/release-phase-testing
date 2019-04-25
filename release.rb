@@ -1,1 +1,2 @@
-puts 'ok!'
+puts 'release!'
+puts `env`

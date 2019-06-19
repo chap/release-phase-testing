@@ -1,1 +1,1 @@
-release: ruby loop-printer.rb
+release: ruby ping.rb

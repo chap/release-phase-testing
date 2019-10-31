@@ -1,2 +1,1 @@
 puts 'release!'
-puts `env`

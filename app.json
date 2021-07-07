@@ -1,13 +1,18 @@
 {
   "name": "release-phase-testing",
   "scripts": {
+    
   },
   "env": {
     "LANG": {
       "required": true
     }
   },
-  "formation": {
+"formation": {
+    "release": {
+      "quantity": 1,
+      "size": "standard-2X"
+    }
   },
   "addons": [
 
